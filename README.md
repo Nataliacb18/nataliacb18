@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Natalia 👋👩‍💻
+![tarjeta](https://user-images.githubusercontent.com/113109206/235138888-82446625-0ca8-42e9-8ed6-c6a40921daed.png)
 <!--
 **Nataliacb18/nataliacb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
